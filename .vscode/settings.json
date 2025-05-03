@@ -64,6 +64,16 @@
     "string": "cpp",
     "unordered_map": "cpp",
     "unordered_set": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "array": "cpp",
+    "chrono": "cpp",
+    "forward_list": "cpp",
+    "iterator": "cpp",
+    "string_view": "cpp",
+    "format": "cpp",
+    "scoped_allocator": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "regex": "cpp"
   }
 }
